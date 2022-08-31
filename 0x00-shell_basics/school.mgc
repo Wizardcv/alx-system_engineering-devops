@@ -1,2 +1,3 @@
-#!/bin/bash
-file --0 =SCHOOLSchool dataSchool-type -m school.mgc*
+0 string SCHOOL School data type
+! :mime School
+
