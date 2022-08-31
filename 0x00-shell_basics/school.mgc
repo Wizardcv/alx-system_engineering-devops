@@ -1,2 +1,2 @@
 #!/bin/bash
-0 =SCHOOLSchool dataSchool
+file --0 =SCHOOLSchool dataSchool-type -m school.mgc*
